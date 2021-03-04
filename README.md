@@ -67,3 +67,35 @@ Referensi Untuk Belajar Apapun
 | [Dasar-Dasar Pemgrograman](https://www.youtube.com/watch?v=60K7zxIjHQo&list=PLjRBWix725xqahfUnpBMo5LlaYjvId_2I)    | Study With Student |
 | [Algoritma Pemrograman Dasar](https://www.youtube.com/watch?v=654I1WqPlK8&list=PLsRgyXGy0Eo5rVSaEm7PSx4qjHH3Kv9q9) | CodePolitan        |
 | [Algoritma Pemrograman 2](https://www.youtube.com/watch?v=RadjAh0LT9I&list=PLjRBWix725xrVtr7q2Asm5LdTmTNSbH8A)     | Study With Student |
+
+## Referensi Github
+|Algorithm & Data Structures|Name|
+|---------|-----|
+|[Fucking Algorithm](https://github.com/labuladong/fucking-algorithm/tree/english)|labuladong|
+|[Hello Algorithm](https://github.com/geekxh/hello-algorithm/tree/english)|geekxh|
+
+|CSS|Name|
+|-----------|-----|
+|[CSS Protips](https://github.com/trekhleb/javascript-algorithms)|trekhleb|
+|[Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)|airbnb|
+
+|NODE JS|Name|
+|------|-----|
+|[Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)|goldbergyoni|
+|[Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)|sindresorhus|
+|[Awesome Node.js projects](https://github.com/sqreen/awesome-nodejs-projects)|sqreen|
+|[RESTful API Node Server Boilerplate](https://github.com/hagopj13/node-express-boilerplate)|hagopj13|
+|[Node Js Project Structure](https://github.com/AlaaMezian/NodeJs-backend-structure)|AlaaMezian|
+
+|JavaScript|Name|
+|----------|----|
+|[The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript)|TheAlgorithms
+|[Javascript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)|trekhleb|
+|[Airbnb JavaScript Style Guide() {](https://github.com/airbnb/javascript)|airbnb|
+
+|TypeScript|Name|
+|----------|----|
+|[Awesome TypeScript](https://github.com/semlinker/awesome-typescript)|semlinker|
+|[Awesome TypeScript](https://github.com/dzharii/awesome-typescript)|dzharii|
+|[Clean Code TypeScript](https://github.com/labs42io/clean-code-typescript)|labs42io|
+|[TypeScript HandBook](https://github.com/microsoft/TypeScript-Handbook)|microsoft|
