@@ -47,6 +47,25 @@ Referensi Untuk Belajar Apapun
 | [Belajar NodeJS](https://www.youtube.com/watch?v=sSLJx5t4OJ4&list=PLFIM0718LjIW-XBdVOerYgKegBtD6rSfD)                       | Web Programming UNPAS |
 | [Belajar Nodejs](https://www.youtube.com/watch?v=8gpc3W-6-s8&list=PL9At9z2rvOC8ETtj8X1w5HLcaRUmRoS-3)                       | baledemy              |
 
+
+## Framework
+| Courses List| Sumber|
+|-------------|-------|
+|[ReactJS Tutorial](https://www.youtube.com/watch?v=5kHyviqjhCk&list=PLU4DS8KR-LJ03qEsHn9zV4qdhcWtusBqb)|prawito hudoro|
+|[Belajar ReactJS](https://www.youtube.com/watch?v=ZNVRETPPW24&list=PLCZlgfAG0GXALZIcEe2t3XVuQ50JYbsbA)|Sekolah Koding|
+|[Tutorial React.js](https://www.youtube.com/watch?v=3M4dFZL5NRs&list=PLp6BJq2fT_g91yCNCWi_bIe-ng7S7rt6V)|LampungDev|
+|[Belajar ReactJS](https://www.youtube.com/watch?v=gZQtT7MulYE&list=PL9At9z2rvOC8-NBRMj6WjgN3Vy71hwY3n)|balademy|
+|[React JS Dasar](https://www.youtube.com/watch?v=AYb7l6XDlPo&list=PLIan8aHxsPj0XtJjWW04hN24fWXrCpLkY)|Wahidev Academy|
+|[Tutorial ReactJS](https://www.youtube.com/watch?v=EBRz-Cf25vE&list=PLH1gH0TmFBBgdQJJK_f_dYSrQXCb-23hJ)|Ipung Dev|
+|[Tutorial React JS dengan API](https://www.youtube.com/watch?v=JmGlw-69ktg&list=PLIan8aHxsPj1ugN7lJ6zdibcetnzpaeVm)| Wahidev Academy|
+|[Belajar Next JS Dari Awal](https://www.youtube.com/watch?v=hczYZs7fG9I&list=PLRKMmwY3-5MyVNCzavLajXccYMTBbWJS7)|Parsinta|
+|[Belajar Full-Stack JavaScript Denga Next.js](https://www.youtube.com/watch?v=kproo1ezjH0&t=12758s)|Array ID|
+|[Tutorial Vuejs](https://www.youtube.com/watch?v=OlHYirmHhK0&list=PL9At9z2rvOC-Z6Gt8uO1XMp4oyMlE3gml)|baledemy|
+|[Tutorial Vue JS](https://www.youtube.com/watch?v=EmCBOtkXxdg&list=PLCZlgfAG0GXCFeOD_wBc9GrYF9pA8loLQ)|Sekolah Koding|
+|[Tutorial Vue JS dengan API](https://www.youtube.com/watch?v=XoDGI5JaPvw&list=PLIan8aHxsPj3a7oLHb2a8pw8IHBq45WYu)|Wahidev Academy|
+
+
+
 ## Math
 
 | Courses List                                                                                                    | Sumber                 |
