@@ -118,3 +118,14 @@ Referensi Untuk Belajar Apapun
 |[Awesome TypeScript](https://github.com/dzharii/awesome-typescript)|dzharii|
 |[Clean Code TypeScript](https://github.com/labs42io/clean-code-typescript)|labs42io|
 |[TypeScript HandBook](https://github.com/microsoft/TypeScript-Handbook)|microsoft|
+
+|React development|Name|
+|-----------------|----|
+|[Awesome React](https://github.com/enaqx/awesome-react)|enaqz|
+|[React Leaning](https://github.com/ericdouglas/react-learning)|ericdounglas|
+|[Beautiful React Hooks](https://github.com/beautifulinteractions/beautiful-react-hooks)|beautifulinteractions|
+|[Awesome React Components](https://github.com/brillout/awesome-react-components)|brillout|
+|[Amazing React Projects](https://github.com/jiwonbest/amazing-react-projects)|jiwonbest|
+|[30 Second of React](https://github.com/30-seconds/30-seconds-of-react)|30-seconds|
+|[React Use](https://github.com/streamich/react-use)|streamich|
+|[]()|  |
