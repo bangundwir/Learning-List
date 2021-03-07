@@ -87,6 +87,12 @@ Referensi Untuk Belajar Apapun
 | [Algoritma Pemrograman Dasar](https://www.youtube.com/watch?v=654I1WqPlK8&list=PLsRgyXGy0Eo5rVSaEm7PSx4qjHH3Kv9q9) | CodePolitan        |
 | [Algoritma Pemrograman 2](https://www.youtube.com/watch?v=RadjAh0LT9I&list=PLjRBWix725xrVtr7q2Asm5LdTmTNSbH8A)     | Study With Student |
 
+## Data Science
+| Courses List                                                                                                       | Sumber                |
+|--------------------------------------------------------------------------------------------------------------------|-----------------------|
+| [Data Science Masterclass R ](https://www.youtube.com/watch?v=rcwlltbsl7k&list=PLIeJsyt_FUfJS6o2fMNuI7hGeBpqRkYMS) | Mega Bagus Herlambang |
+| [Python Master Class](https://www.youtube.com/watch?v=oQu5uowvQOo&list=PLIeJsyt_FUfIeFxVGGNtXrdtaa83NVA2y)                                                                                                                   |Mega Bagus Herlambang|
+
 ## Referensi Github
 |Algorithm & Data Structures|Name|
 |---------|-----|
