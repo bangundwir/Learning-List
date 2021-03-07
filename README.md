@@ -92,6 +92,7 @@ Referensi Untuk Belajar Apapun
 |--------------------------------------------------------------------------------------------------------------------|-----------------------|
 | [Data Science Masterclass R ](https://www.youtube.com/watch?v=rcwlltbsl7k&list=PLIeJsyt_FUfJS6o2fMNuI7hGeBpqRkYMS) | Mega Bagus Herlambang |
 | [Python Master Class](https://www.youtube.com/watch?v=oQu5uowvQOo&list=PLIeJsyt_FUfIeFxVGGNtXrdtaa83NVA2y)                                                                                                                   |Mega Bagus Herlambang|
+|[Pemrograman & Strukture Data Python](https://www.youtube.com/watch?v=fBkeaYZ99iY&list=PLZQbl9Jhl-VBb_7nOAXO4T8fhag9-iafa)|Erico Darmawan Handoyo|
 
 ## Referensi Github
 |Algorithm & Data Structures|Name|
