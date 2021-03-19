@@ -7,8 +7,7 @@ Referensi Untuk Belajar Apapun
 
 | Courses List                                                                                                      | Sumber             |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [The History Of Programming, Part 1 - Mark Rendle](https://www.youtube.com/watch?v=2-mFWi5oLkM) |
-NDC Conferences |
+| [The History Of Programming, Part 1 - Mark Rendle](https://www.youtube.com/watch?v=2-mFWi5oLkM) |NDC Conferences |
 | [Keynote session: The History of Programming - Mark Rendle [DevCon 2016]](https://www.youtube.com/watch?v=Tr9E_vzKRVo)              | Luminis |
 | [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)              | NDC Conferences |
 | [A History of Programming Languages for 2 Voices" by David Nolen and Michael Bernstein](https://www.youtube.com/watch?v=J3C79CDqeW4)|Strange Loop Conference|
