@@ -2,6 +2,17 @@
 
 Referensi Untuk Belajar Apapun
 
+
+## History
+
+| Courses List                                                                                                      | Sumber             |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [The History Of Programming, Part 1 - Mark Rendle](https://www.youtube.com/watch?v=2-mFWi5oLkM) |
+NDC Conferences |
+| [Keynote session: The History of Programming - Mark Rendle [DevCon 2016]](https://www.youtube.com/watch?v=Tr9E_vzKRVo)              | Luminis |
+| [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U)              | NDC Conferences |
+| [A History of Programming Languages for 2 Voices" by David Nolen and Michael Bernstein](https://www.youtube.com/watch?v=J3C79CDqeW4)|Strange Loop Conference|
+
 ## Pemrograman
 
 | Courses List                                                                                                      | Sumber             |
@@ -9,6 +20,7 @@ Referensi Untuk Belajar Apapun
 | [LOGIKA INFORMATIKA](https://www.youtube.com/watch?v=W14g-qJN6XM&list=PLjRBWix725xq67E2gFActUxVZ72To-VM_&index=2) | Study With Student |
 | [Struktur Data](https://www.youtube.com/watch?v=3dpVZ6coFx0&list=PLjRBWix725xo8F3mPC44JmlNHC3fXmnD_)              | Study With Student |
 | [TUTORIAL JAVASCRIPT DASAR BAHASA INDONESIA](https://www.youtube.com/watch?v=SDROba_M42g)              | Programmer Zaman Now |
+| [The History Of Computers, Programming, and Coding](https://www.youtube.com/watch?v=M4d3FXu9-3I)|Computer Care Clinic|
 
 ## Web Developer
 
