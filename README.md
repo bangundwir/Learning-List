@@ -8,6 +8,7 @@ Referensi Untuk Belajar Apapun
 | ----------------------------------------------------------------------------------------------------------------- | ------------------ |
 | [LOGIKA INFORMATIKA](https://www.youtube.com/watch?v=W14g-qJN6XM&list=PLjRBWix725xq67E2gFActUxVZ72To-VM_&index=2) | Study With Student |
 | [Struktur Data](https://www.youtube.com/watch?v=3dpVZ6coFx0&list=PLjRBWix725xo8F3mPC44JmlNHC3fXmnD_)              | Study With Student |
+| [TUTORIAL JAVASCRIPT DASAR BAHASA INDONESIA](https://www.youtube.com/watch?v=SDROba_M42g)              | Programmer Zaman Now |
 
 ## Web Developer
 
