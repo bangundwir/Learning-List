@@ -124,6 +124,7 @@ Referensi Untuk Belajar Apapun
 |[Awesome Node.js projects](https://github.com/sqreen/awesome-nodejs-projects)|sqreen|
 |[RESTful API Node Server Boilerplate](https://github.com/hagopj13/node-express-boilerplate)|hagopj13|
 |[Node Js Project Structure](https://github.com/AlaaMezian/NodeJs-backend-structure)|AlaaMezian|
+|[30 Days of Node]|(https://nodejsera.com/30-days-of-node.html)|nodejsera|
 
 |JavaScript|Name|
 |----------|----|
