@@ -131,6 +131,8 @@ Referensi Untuk Belajar Apapun
 |[The Algorithms - JavaScript](https://github.com/TheAlgorithms/Javascript)|TheAlgorithms
 |[Javascript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)|trekhleb|
 |[Airbnb JavaScript Style Guide() {](https://github.com/airbnb/javascript)|airbnb|
+|[30-second-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews#what-is-big-o-notation)|30-seconds|
+|[javascript-interview-questions](https://github.com/learning-zone/javascript-interview-questions)|Learning-zone|
 
 |TypeScript|Name|
 |----------|----|
@@ -148,4 +150,5 @@ Referensi Untuk Belajar Apapun
 |[Amazing React Projects](https://github.com/jiwonbest/amazing-react-projects)|jiwonbest|
 |[30 Second of React](https://github.com/30-seconds/30-seconds-of-react)|30-seconds|
 |[React Use](https://github.com/streamich/react-use)|streamich|
+|[React-coding-challenges](https://github.com/alexgurr/react-coding-challenges)|alexgurr|
 |[]()|  |
