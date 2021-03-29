@@ -107,6 +107,11 @@ Referensi Untuk Belajar Apapun
 |[Pemrograman & Strukture Data Python](https://www.youtube.com/watch?v=fBkeaYZ99iY&list=PLZQbl9Jhl-VBb_7nOAXO4T8fhag9-iafa)|Erico Darmawan Handoyo|
 
 ## Referensi Github
+|Roadmap|
+|-------------|
+|[Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)|
+|[AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)|
+
 |Algorithm & Data Structures|Name|
 |---------|-----|
 |[Fucking Algorithm](https://github.com/labuladong/fucking-algorithm/tree/english)|labuladong|
@@ -164,4 +169,16 @@ Referensi Untuk Belajar Apapun
 |---|----|
 |[Public apis](https://github.com/public-apis/public-apis)|public-apis|
 |[Json-Server](https://github.com/typicode/json-server)|typicode|
+
+|Random|Name|
+|----------|----|
+|[go](https://github.com/datasciencemasters/go)|datasciencemasters|
+|[Project based Learning](https://github.com/tuvtran/project-based-learning)|tuvtran|
+|[Python Programming Exercises](https://github.com/zhiwehu/Python-programming-exercises)|zhiwehu|
+|[Awesome For Beginners](https://github.com/MunGell/awesome-for-beginners)|MunGell|
+|[Projects](https://github.com/karan/Projects)|karan|
+|[Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)|microsoft|
+|[Awesome](https://github.com/sindresorhus/awesome)|sindresorhus|
+
+
 
