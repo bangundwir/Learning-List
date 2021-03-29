@@ -133,6 +133,8 @@ Referensi Untuk Belajar Apapun
 |[Airbnb JavaScript Style Guide() {](https://github.com/airbnb/javascript)|airbnb|
 |[30-second-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews#what-is-big-o-notation)|30-seconds|
 |[javascript-interview-questions](https://github.com/learning-zone/javascript-interview-questions)|Learning-zone|
+|[Awesome JavaScript Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)|rohan-paul|
+|[30 Seconds Web](https://github.com/30-seconds/30-seconds-web)|30 Seconds|
 
 |TypeScript|Name|
 |----------|----|
