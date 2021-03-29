@@ -135,6 +135,11 @@ Referensi Untuk Belajar Apapun
 |[javascript-interview-questions](https://github.com/learning-zone/javascript-interview-questions)|Learning-zone|
 |[Awesome JavaScript Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)|rohan-paul|
 |[30 Seconds Web](https://github.com/30-seconds/30-seconds-web)|30 Seconds|
+|[Awesome-Javascript-Learning](https://github.com/micromata/awesome-javascript-learning)|micromata|
+|[Algorithms Leetcode JavaScript](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript)|ignacio-chiazzo|
+|[Javascript Basic Projects](https://github.com/john-smilga/javascript-basic-projects)|john-smilga|
+|[realworld](https://github.com/gothinkster/realworld)|gothinkster|
+
 
 |TypeScript|Name|
 |----------|----|
@@ -153,4 +158,10 @@ Referensi Untuk Belajar Apapun
 |[30 Second of React](https://github.com/30-seconds/30-seconds-of-react)|30-seconds|
 |[React Use](https://github.com/streamich/react-use)|streamich|
 |[React-coding-challenges](https://github.com/alexgurr/react-coding-challenges)|alexgurr|
-|[]()|  |
+|[30 Days of React](https://github.com/Asabeneh/30-Days-Of-React)|Asabeneh|
+
+|Api|Name|
+|---|----|
+|[Public apis](https://github.com/public-apis/public-apis)|public-apis|
+|[Json-Server](https://github.com/typicode/json-server)|typicode|
+
