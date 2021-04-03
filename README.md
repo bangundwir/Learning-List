@@ -98,6 +98,7 @@ Referensi Untuk Belajar Apapun
 | [Dasar-Dasar Pemgrograman](https://www.youtube.com/watch?v=60K7zxIjHQo&list=PLjRBWix725xqahfUnpBMo5LlaYjvId_2I)    | Study With Student |
 | [Algoritma Pemrograman Dasar](https://www.youtube.com/watch?v=654I1WqPlK8&list=PLsRgyXGy0Eo5rVSaEm7PSx4qjHH3Kv9q9) | CodePolitan        |
 | [Algoritma Pemrograman 2](https://www.youtube.com/watch?v=RadjAh0LT9I&list=PLjRBWix725xrVtr7q2Asm5LdTmTNSbH8A)     | Study With Student |
+| [Algoritma Pemrograman](https://www.youtube.com/playlist?list=PL2O3HdJI4voEpttLwVPBdzDJetWNuIrma)                  |Indonesia Belajar   |
 
 ## Data Science
 | Courses List                                                                                                       | Sumber                |
