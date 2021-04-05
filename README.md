@@ -99,7 +99,13 @@ Referensi Untuk Belajar Apapun
 | [Algoritma Pemrograman Dasar](https://www.youtube.com/watch?v=654I1WqPlK8&list=PLsRgyXGy0Eo5rVSaEm7PSx4qjHH3Kv9q9) | CodePolitan        |
 | [Algoritma Pemrograman 2](https://www.youtube.com/watch?v=RadjAh0LT9I&list=PLjRBWix725xrVtr7q2Asm5LdTmTNSbH8A)     | Study With Student |
 | [Algoritma Pemrograman](https://www.youtube.com/playlist?list=PL2O3HdJI4voEpttLwVPBdzDJetWNuIrma)                  |Indonesia Belajar   |
+| [Data Structure](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)              |mycodeschool        |
+| [Intoduction to Algorithm](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)    |MIT OpenCourseWare  |
+| [Algorithms Specializatiion](https://www.coursera.org/specializations/algorithms)                                  |Courserea           |
+| [Data Structures & Algorithms in Python](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) |Udacity       |
 
+
+ 
 ## Data Science
 | Courses List                                                                                                       | Sumber                |
 |--------------------------------------------------------------------------------------------------------------------|-----------------------|
@@ -182,4 +188,7 @@ Referensi Untuk Belajar Apapun
 |[Awesome](https://github.com/sindresorhus/awesome)|sindresorhus|
 
 
-
+|Book|Name|
+|----|----|
+|[The Algorithm Desgn Manual](https://www.amazon.com/gp/product/1849967202/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1849967202&linkCode=as2&tag=csdojo-20&linkId=1b631d0a8a8356471d7c8d604b6d94de)|Sterven SS. Skiena|
+|[Algorithms (4th Edition)](https://www.amazon.com/gp/product/032157351X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=032157351X&linkCode=as2&tag=csdojo-20&linkId=3f6efe69a2668f0564811f886fa61270)|Robert Sedgewick|
