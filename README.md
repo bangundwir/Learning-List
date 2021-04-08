@@ -151,6 +151,8 @@ Referensi Untuk Belajar Apapun
 |[Algorithms Leetcode JavaScript](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript)|ignacio-chiazzo|
 |[Javascript Basic Projects](https://github.com/john-smilga/javascript-basic-projects)|john-smilga|
 |[realworld](https://github.com/gothinkster/realworld)|gothinkster|
+|[Awesome-Javascript](https://github.com/uhub/awesome-javascript)|uhub|
+
 
 
 |TypeScript|Name|
@@ -186,6 +188,10 @@ Referensi Untuk Belajar Apapun
 |[Projects](https://github.com/karan/Projects)|karan|
 |[Web Dev For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)|microsoft|
 |[Awesome](https://github.com/sindresorhus/awesome)|sindresorhus|
+|[Web Development Resources](https://github.com/MarkoDenic/web-development-resources)|MarkoDenc|
+|[Free For Dev](https://github.com/ripienaar/free-for-dev)|repienaar|
+|[Instroduction To Python](https://github.com/globalaihub/introduction-to-python)|globalaihub|
+|[Complete Python 3 Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)|Pierian-Data
 
 
 |Book|Name|
