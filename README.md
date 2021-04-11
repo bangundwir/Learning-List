@@ -152,6 +152,7 @@ Referensi Untuk Belajar Apapun
 |[Javascript Basic Projects](https://github.com/john-smilga/javascript-basic-projects)|john-smilga|
 |[realworld](https://github.com/gothinkster/realworld)|gothinkster|
 |[Awesome-Javascript](https://github.com/uhub/awesome-javascript)|uhub|
+|[Javascript Questions](https://github.com/lydiahallie/javascript-questions/tree/master/id-ID)|lydiahallie|
 
 
 
