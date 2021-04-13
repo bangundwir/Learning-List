@@ -153,6 +153,7 @@ Referensi Untuk Belajar Apapun
 |[realworld](https://github.com/gothinkster/realworld)|gothinkster|
 |[Awesome-Javascript](https://github.com/uhub/awesome-javascript)|uhub|
 |[Javascript Questions](https://github.com/lydiahallie/javascript-questions/tree/master/id-ID)|lydiahallie|
+|[Clean Code Javascript](https://github.com/andirkh/clean-code-javascript/)|andirkh|
 
 
 
