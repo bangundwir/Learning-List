@@ -154,6 +154,7 @@ Referensi Untuk Belajar Apapun
 |[Awesome-Javascript](https://github.com/uhub/awesome-javascript)|uhub|
 |[Javascript Questions](https://github.com/lydiahallie/javascript-questions/tree/master/id-ID)|lydiahallie|
 |[Clean Code Javascript](https://github.com/andirkh/clean-code-javascript/)|andirkh|
+|[33 Js Concepts](https://github.com/rijdz/33-js-concepts)|rijdz|
 
 
 
