@@ -123,6 +123,7 @@ Referensi Untuk Belajar Apapun
 |---------|-----|
 |[Fucking Algorithm](https://github.com/labuladong/fucking-algorithm/tree/english)|labuladong|
 |[Hello Algorithm](https://github.com/geekxh/hello-algorithm/tree/english)|geekxh|
+|[Python](https://github.com/TheAlgorithms/Python)|TheAlgorithms|
 
 |CSS|Name|
 |-----------|-----|
@@ -155,6 +156,7 @@ Referensi Untuk Belajar Apapun
 |[Javascript Questions](https://github.com/lydiahallie/javascript-questions/tree/master/id-ID)|lydiahallie|
 |[Clean Code Javascript](https://github.com/andirkh/clean-code-javascript/)|andirkh|
 |[33 Js Concepts](https://github.com/rijdz/33-js-concepts)|rijdz|
+|[Modern javascript Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet#short-explanation)|mbeaudru|
 
 
 
