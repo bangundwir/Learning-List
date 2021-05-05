@@ -124,6 +124,7 @@ Referensi Untuk Belajar Apapun
 |[Fucking Algorithm](https://github.com/labuladong/fucking-algorithm/tree/english)|labuladong|
 |[Hello Algorithm](https://github.com/geekxh/hello-algorithm/tree/english)|geekxh|
 |[Python](https://github.com/TheAlgorithms/Python)|TheAlgorithms|
+|[coding-interview-university](https://github.com/jwasham/coding-interview-university)|jwasham|
 
 |CSS|Name|
 |-----------|-----|
@@ -157,6 +158,8 @@ Referensi Untuk Belajar Apapun
 |[Clean Code Javascript](https://github.com/andirkh/clean-code-javascript/)|andirkh|
 |[33 Js Concepts](https://github.com/rijdz/33-js-concepts)|rijdz|
 |[Modern javascript Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet#short-explanation)|mbeaudru|
+|[coding-problems](https://github.com/MTrajK/coding-problems)|MTrajK|
+|[coding-interview-university](https://github.com/jwasham/coding-interview-university)|jwasham|
 
 
 
