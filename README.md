@@ -200,6 +200,9 @@ Referensi Untuk Belajar Apapun
 |[Free For Dev](https://github.com/ripienaar/free-for-dev)|repienaar|
 |[Instroduction To Python](https://github.com/globalaihub/introduction-to-python)|globalaihub|
 |[Complete Python 3 Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)|Pierian-Data
+|[InterviewRoom](https://github.com/ashuray/InterviewRoom)|ashuray|
+|[Algorithms](https://github.com/prakhar1989/Algorithms)|prakhar1989|
+|[Playground-MacOs](https://github.com/Renovamen/playground-macos)|Renovamen|
 
 
 |Book|Name|
