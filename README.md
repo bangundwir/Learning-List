@@ -30,6 +30,8 @@ Referensi Untuk Belajar Apapun
 | [HTML, CSS, and Javascript for Web Developers](https://www.youtube.com/watch?v=2OY-sLXEsVQ&list=PLu2bZlW8EEeD1ou42qKpjZKtsjVRxH2Wn)|LOGANFORD Academy|
 | [Introduction to Discrete Mathematics for Computer Science Specialization)](https://www.youtube.com/watch?v=ibh3rVLGd-4&list=PLu2bZlW8EEeCyT0GjzUIHHQSEnnY1PIJn)|LOGANFORD Academy|
 | [Python Specialization | By University of Michigan](https://www.youtube.com/watch?v=mb1dJpXTPus&list=PLu2bZlW8EEeBWPefwpcEGIoplsd_QiMfR)|LOGANFORD Academy|
+| [Full Stack Web Development Tutorial Course](https://www.youtube.com/watch?v=EceJQ05KTf4&list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz)|LOGANFORD Academy|
+| [The Complete Financial Analyst Course)](https://www.youtube.com/watch?v=gj71sOEoCcw&list=PLU5mCJxo6JA6PW4ikI2dVOUoEOOWFkwLp)|LOGANFORD Academy|
 
 ## Web Developer
 
