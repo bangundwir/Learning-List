@@ -23,8 +23,13 @@ Referensi Untuk Belajar Apapun
 | [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.youtube.com/watch?v=Pg26EtCKa28&list=PLDNWqFLRavTOvk2C_9veKgOqg8hmgvC-S&index=1)|SWE++|
 | [Masterclass in JavaScript Algorithms and Data Structures (Part1)](https://www.youtube.com/watch?v=x6zNu_3hdOU)|LOGANFORD Academy|
 | [Masterclass in JavaScript Algorithms and Data Structures (Part2)](https://www.youtube.com/watch?v=PYx3_4HzL9I)|LOGANFORD Academy|
-
-
+| [The Perfect Guide to React (incl Hooks, React Router](https://www.youtube.com/watch?v=VXf-84S_AUc&list=PLu2bZlW8EEeBOup4c-GD0pkZedXEttTMH)|LOGANFORD Academy|
+| [The Ultimate Developer's Guide to Typescript)](https://www.youtube.com/watch?v=N-nymHooT60&list=PLu2bZlW8EEeCe0h8JuScV5a6SMN1Dq8Fk)|LOGANFORD Academy|
+| [Data Structures and Algorithms Specialization)](https://www.youtube.com/watch?v=9Cwnpc0KZTs&list=PLu2bZlW8EEeAegYFWAUfTXHNIMUmbQK5L)|LOGANFORD Academy|
+| [The Git and Github Bootcamp](https://www.youtube.com/watch?v=w4LDM5768oU&list=PLu2bZlW8EEeCXuKrPr8MFCM6xFiOHgbnZ)|LOGANFORD Academy|
+| [HTML, CSS, and Javascript for Web Developers](https://www.youtube.com/watch?v=2OY-sLXEsVQ&list=PLu2bZlW8EEeD1ou42qKpjZKtsjVRxH2Wn)|LOGANFORD Academy|
+| [Introduction to Discrete Mathematics for Computer Science Specialization)](https://www.youtube.com/watch?v=ibh3rVLGd-4&list=PLu2bZlW8EEeCyT0GjzUIHHQSEnnY1PIJn)|LOGANFORD Academy|
+| [Python Specialization | By University of Michigan](https://www.youtube.com/watch?v=mb1dJpXTPus&list=PLu2bZlW8EEeBWPefwpcEGIoplsd_QiMfR)|LOGANFORD Academy|
 
 ## Web Developer
 
