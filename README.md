@@ -21,6 +21,9 @@ Referensi Untuk Belajar Apapun
 | [TUTORIAL JAVASCRIPT DASAR BAHASA INDONESIA](https://www.youtube.com/watch?v=SDROba_M42g)              | Programmer Zaman Now |
 | [The History Of Computers, Programming, and Coding](https://www.youtube.com/watch?v=M4d3FXu9-3I)|Computer Care Clinic|
 | [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.youtube.com/watch?v=Pg26EtCKa28&list=PLDNWqFLRavTOvk2C_9veKgOqg8hmgvC-S&index=1)|SWE++|
+| [Masterclass in JavaScript Algorithms and Data Structures (Part1)](https://www.youtube.com/watch?v=x6zNu_3hdOU)|LOGANFORD Academy|
+| [Masterclass in JavaScript Algorithms and Data Structures (Part2)](https://www.youtube.com/watch?v=PYx3_4HzL9I)|LOGANFORD Academy|
+
 
 
 ## Web Developer
