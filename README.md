@@ -20,6 +20,8 @@ Referensi Untuk Belajar Apapun
 | [Struktur Data](https://www.youtube.com/watch?v=3dpVZ6coFx0&list=PLjRBWix725xo8F3mPC44JmlNHC3fXmnD_)              | Study With Student |
 | [TUTORIAL JAVASCRIPT DASAR BAHASA INDONESIA](https://www.youtube.com/watch?v=SDROba_M42g)              | Programmer Zaman Now |
 | [The History Of Computers, Programming, and Coding](https://www.youtube.com/watch?v=M4d3FXu9-3I)|Computer Care Clinic|
+| [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.youtube.com/watch?v=Pg26EtCKa28&list=PLDNWqFLRavTOvk2C_9veKgOqg8hmgvC-S&index=1)|SWE++|
+
 
 ## Web Developer
 
